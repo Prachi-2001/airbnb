@@ -9,15 +9,6 @@ import data from "./data"
 import photography from "./images/learning-photography.jpg"
 // import Joke from "./components/Jokes";
 
-/*
-Pass props to the card component 
-img = ""
-rating = 5.0
-reviewcount = 6
-country 
-title 
-price
-*/
 
 function App() {
   const Cards= data.map(element => {
